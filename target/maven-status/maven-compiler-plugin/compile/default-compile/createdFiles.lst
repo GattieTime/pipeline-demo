@@ -1,1 +1,7 @@
-com\revature\servlets\HelloServlet.class
+com\revature\services\PokeService.class
+com\revature\models\Trainer.class
+com\revature\models\Pokemon.class
+com\revature\repos\PokemonDAO.class
+com\revature\controllers\PokeController.class
+com\revature\PokeDataApplication.class
+com\revature\repos\TrainerDAO.class
